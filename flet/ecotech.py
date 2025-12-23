@@ -142,4 +142,4 @@ if __name__ == "__main__":
         dsn=os.getenv("ORACLE_DSN")
     )
 
-    Auth.login(db, "soyelseba", "alskjflsakf")
+    Auth.login(db, "C##BENJAMIN_BAEZA", "inacap")
